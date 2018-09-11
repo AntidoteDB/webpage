@@ -2,7 +2,7 @@
 title: AntidoteDB
 email: info@antidotedb.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/antidote" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 exclude: ["vendor"]
