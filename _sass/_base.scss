@@ -349,3 +349,13 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
+
+#logos {
+    background-color: #5F9086;
+}
+
+.imgLogo {
+    @media (max-width: 796px) {
+        width: 33%;
+    }
+}
