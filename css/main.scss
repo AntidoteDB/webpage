@@ -37,6 +37,16 @@
 $theme-primary: #5F9086;
 $theme-dark: #222;
 
+#news, #events{
+        h3 {
+                color:#33cccc;
+                font-weight: bold;
+        }
+        h4 {
+                color:#248f8f;
+        }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
